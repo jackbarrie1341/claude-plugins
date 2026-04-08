@@ -15,12 +15,7 @@
 			},
 			"description": "Iterative quality optimization through adversarial multi-agent debate. Pits isolated agents against each other until nothing can beat the current version.",
 			"version": "1.0.0",
-			"author": {
-				"name": "Jack Barrie"
-			},
-			"repository": "https://github.com/jackbarrie1341/autoreason",
-			"license": "MIT",
-			"keywords": ["writing", "debate", "adversarial", "quality", "optimization", "multi-agent"]
+			"strict": true
 		}
 	]
 }
