@@ -4,7 +4,8 @@
 		"name": "Jack Barrie"
 	},
 	"metadata": {
-		"description": "Claude Code plugins by Jack Barrie"
+		"description": "Claude Code plugins by Jack Barrie",
+		"version": "1.0.0"
 	},
 	"plugins": [
 		{
@@ -14,7 +15,7 @@
 				"url": "https://github.com/jackbarrie1341/autoreason.git"
 			},
 			"description": "Iterative quality optimization through adversarial multi-agent debate. Pits isolated agents against each other until nothing can beat the current version.",
-			"version": "1.0.0",
+			"version": "2.0.0",
 			"strict": true
 		}
 	]
