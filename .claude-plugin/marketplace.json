@@ -1,5 +1,5 @@
 {
-	"name": "jackbarrie",
+	"name": "claude-plugins",
 	"owner": {
 		"name": "Jack Barrie"
 	},
@@ -15,7 +15,7 @@
 				"url": "https://github.com/jackbarrie1341/autoreason.git"
 			},
 			"description": "Iterative quality optimization through adversarial multi-agent debate. Pits isolated agents against each other until nothing can beat the current version.",
-			"version": "2.0.0",
+			"version": "1.0.0",
 			"strict": true
 		}
 	]
